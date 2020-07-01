@@ -3,4 +3,4 @@ layout: default
 ---
 ![Image](assets/img/logo.png)
 
-:chile:
+:apple:
