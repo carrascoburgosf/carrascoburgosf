@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: 
 ---
 ![Image](assets/img/logo.png)
