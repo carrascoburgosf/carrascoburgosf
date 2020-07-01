@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![Image](assets/img/logo.png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
