@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Node-RED
-show_download: true
+show_downloads: true
+is_project_page: true
 description: Entradas relacionadas a Node-RED
 ---
 
