@@ -1,6 +1,6 @@
 title: carrascoburgosf
 description: Blog personal de carrascoburgosf en GitHub Pages.
-show_downloads: true
-is_project_page: true
+show_downloads: false
+is_project_page: false
 google_analytics:
 theme: jekyll-theme-cayman
