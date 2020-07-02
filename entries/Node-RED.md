@@ -10,4 +10,4 @@ description: Entradas relacionadas a Node-RED
 
 _first entrie_
 
-[back](./)
+[back](../)
