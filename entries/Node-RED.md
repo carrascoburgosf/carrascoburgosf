@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: entries
 title: Node-RED
-show_downloads: false
-is_project_page: false
 description: Entradas relacionadas a Node-RED
 ---
 
